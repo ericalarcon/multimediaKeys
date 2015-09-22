@@ -1,0 +1,12 @@
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\launcher\bin\Release\MKDlauncher.exe.config
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\launcher\bin\Release\MKDlauncher.exe
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\launcher\bin\Release\MKDlauncher.pdb
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\launcher\bin\Release\MKDlauncher.xml
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\launcher\bin\Release\projectSettings.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\launcher\bin\Release\es\projectSettings.resources.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\launcher\obj\Release\launcher.vbprojResolveAssemblyReference.cache
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\launcher\obj\Release\MKDlauncher.Resources.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\launcher\obj\Release\launcher.vbproj.GenerateResource.Cache
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\launcher\obj\Release\MKDlauncher.exe
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\launcher\obj\Release\MKDlauncher.xml
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\launcher\obj\Release\MKDlauncher.pdb

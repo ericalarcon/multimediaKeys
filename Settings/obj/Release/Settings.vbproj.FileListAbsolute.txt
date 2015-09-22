@@ -1,0 +1,9 @@
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\bin\Release\projectSettings.dll.config
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\bin\Release\projectSettings.dll
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\bin\Release\es\projectSettings.resources.dll
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Release\projectSettings.errors.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Release\projectSettings.Resources.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Release\projectSettings.errors.es.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Release\Settings.vbproj.GenerateResource.Cache
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Release\es\projectSettings.resources.dll
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Release\projectSettings.dll

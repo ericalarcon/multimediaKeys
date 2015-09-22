@@ -1,0 +1,9 @@
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\config\bin\Release\multimediaKeysConfig.exe.config
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\config\bin\Release\multimediaKeysConfig.exe
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\config\bin\Release\projectSettings.dll
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\config\bin\Release\es\projectSettings.resources.dll
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\config\obj\Release\config.vbprojResolveAssemblyReference.cache
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\config\obj\Release\multimediaKeysConfig.config.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\config\obj\Release\multimediaKeysConfig.Resources.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\config\obj\Release\config.vbproj.GenerateResource.Cache
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\config\obj\Release\multimediaKeysConfig.exe

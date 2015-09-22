@@ -1,0 +1,8 @@
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\bin\Debug\UninstallActions.exe.config
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\bin\Debug\UninstallActions.exe
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\bin\Debug\UninstallActions.pdb
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\obj\Debug\UninstallActions.vbprojResolveAssemblyReference.cache
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\obj\Debug\UninstallActions.Resources.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\obj\Debug\UninstallActions.vbproj.GenerateResource.Cache
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\obj\Debug\UninstallActions.exe
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\obj\Debug\UninstallActions.pdb

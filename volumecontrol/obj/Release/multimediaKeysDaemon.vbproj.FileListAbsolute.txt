@@ -1,0 +1,9 @@
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\volumecontrol\bin\Release\multimediaKeysDaemon.exe.config
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\volumecontrol\bin\Release\multimediaKeysDaemon.exe
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\volumecontrol\bin\Release\projectSettings.dll
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\volumecontrol\bin\Release\es\projectSettings.resources.dll
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\volumecontrol\obj\Release\multimediaKeysDaemon.vbprojResolveAssemblyReference.cache
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\volumecontrol\obj\Release\multimediaKeysDaemon.main.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\volumecontrol\obj\Release\multimediaKeysDaemon.Resources.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\volumecontrol\obj\Release\multimediaKeysDaemon.vbproj.GenerateResource.Cache
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\volumecontrol\obj\Release\multimediaKeysDaemon.exe

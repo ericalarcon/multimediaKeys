@@ -1,0 +1,15 @@
+c:\users\erica_000\documents\visual studio 2013\Projects\volumecontrol\volumecontrol\bin\Debug\volumecontrol.exe.config
+c:\users\erica_000\documents\visual studio 2013\Projects\volumecontrol\volumecontrol\bin\Debug\volumecontrol.exe
+c:\users\erica_000\documents\visual studio 2013\Projects\volumecontrol\volumecontrol\bin\Debug\volumecontrol.pdb
+c:\users\erica_000\documents\visual studio 2013\Projects\volumecontrol\volumecontrol\obj\Debug\volumecontrol.Resources.resources
+c:\users\erica_000\documents\visual studio 2013\Projects\volumecontrol\volumecontrol\obj\Debug\volumecontrol.vbproj.GenerateResource.Cache
+c:\users\erica_000\documents\visual studio 2013\Projects\volumecontrol\volumecontrol\obj\Debug\volumecontrol.exe
+c:\users\erica_000\documents\visual studio 2013\Projects\volumecontrol\volumecontrol\obj\Debug\volumecontrol.pdb
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\obj\Debug\volumecontrol.vbprojResolveAssemblyReference.cache
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\bin\Debug\config.exe
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\bin\Debug\projectSettings.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\bin\Debug\config.pdb
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\bin\Debug\config.xml
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\bin\Debug\projectSettings.pdb
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\bin\Debug\es\projectSettings.resources.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\obj\Debug\volumecontrol.main.resources

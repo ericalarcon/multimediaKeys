@@ -1,0 +1,5 @@
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\bin\Release\UninstallActions.exe.config
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\bin\Release\UninstallActions.exe
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\obj\Release\UninstallActions.Resources.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\obj\Release\UninstallActions.vbproj.GenerateResource.Cache
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\obj\Release\UninstallActions.exe

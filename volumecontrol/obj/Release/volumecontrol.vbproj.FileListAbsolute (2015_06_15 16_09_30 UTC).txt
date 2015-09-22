@@ -1,0 +1,12 @@
+C:\Users\erica_000\documents\visual studio 2013\Projects\volumecontrol\volumecontrol\bin\Release\volumecontrol.exe.config
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\bin\Release\volumecontrol.exe
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\bin\Release\config.exe
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\bin\Release\projectSettings.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\bin\Release\config.pdb
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\bin\Release\config.xml
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\bin\Release\es\projectSettings.resources.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\obj\Release\volumecontrol.vbprojResolveAssemblyReference.cache
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\obj\Release\volumecontrol.main.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\obj\Release\volumecontrol.Resources.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\obj\Release\volumecontrol.vbproj.GenerateResource.Cache
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\volumecontrol\obj\Release\volumecontrol.exe

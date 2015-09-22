@@ -1,0 +1,46 @@
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\bin\Debug\GDocumentalSettings.dll.config
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\bin\Debug\GDocumentalSettings.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\bin\Debug\GDocumentalSettings.pdb
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\bin\Debug\es\GDocumentalSettings.resources.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\obj\Debug\GDocumentalSettings.default.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\obj\Debug\GDocumentalSettings.errors.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\obj\Debug\GDocumentalSettings.Resources.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\obj\Debug\GDocumentalSettings.default.es.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\obj\Debug\GDocumentalSettings.errors.es.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\obj\Debug\Settings.vbproj.GenerateResource.Cache
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\obj\Debug\es\GDocumentalSettings.resources.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\obj\Debug\GDocumentalSettings.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\GDocumental 2.0\Settings\obj\Debug\GDocumentalSettings.pdb
+C:\Users\erica_000\documents\visual studio 2013\Projects\pimpam\Settings\bin\Debug\projectSettings.dll.config
+C:\Users\erica_000\documents\visual studio 2013\Projects\pimpam\Settings\bin\Debug\projectSettings.dll
+C:\Users\erica_000\documents\visual studio 2013\Projects\pimpam\Settings\bin\Debug\projectSettings.pdb
+C:\Users\erica_000\documents\visual studio 2013\Projects\pimpam\Settings\bin\Debug\es\projectSettings.resources.dll
+C:\Users\erica_000\documents\visual studio 2013\Projects\pimpam\Settings\obj\Debug\projectSettings.errors.resources
+C:\Users\erica_000\documents\visual studio 2013\Projects\pimpam\Settings\obj\Debug\projectSettings.Resources.resources
+C:\Users\erica_000\documents\visual studio 2013\Projects\pimpam\Settings\obj\Debug\projectSettings.errors.es.resources
+C:\Users\erica_000\documents\visual studio 2013\Projects\pimpam\Settings\obj\Debug\Settings.vbproj.GenerateResource.Cache
+C:\Users\erica_000\documents\visual studio 2013\Projects\pimpam\Settings\obj\Debug\es\projectSettings.resources.dll
+C:\Users\erica_000\documents\visual studio 2013\Projects\pimpam\Settings\obj\Debug\projectSettings.dll
+C:\Users\erica_000\documents\visual studio 2013\Projects\pimpam\Settings\obj\Debug\projectSettings.pdb
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\Settings\bin\Debug\projectSettings.dll.config
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\Settings\bin\Debug\projectSettings.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\Settings\bin\Debug\projectSettings.pdb
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\Settings\bin\Debug\es\projectSettings.resources.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\Settings\obj\Debug\projectSettings.errors.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\Settings\obj\Debug\projectSettings.Resources.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\Settings\obj\Debug\projectSettings.errors.es.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\Settings\obj\Debug\Settings.vbproj.GenerateResource.Cache
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\Settings\obj\Debug\es\projectSettings.resources.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\Settings\obj\Debug\projectSettings.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\volumecontrol\Settings\obj\Debug\projectSettings.pdb
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\bin\Debug\projectSettings.dll.config
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\bin\Debug\projectSettings.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\bin\Debug\projectSettings.pdb
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\bin\Debug\es\projectSettings.resources.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\projectSettings.errors.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\projectSettings.Resources.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\projectSettings.errors.es.resources
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\Settings.vbproj.GenerateResource.Cache
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\es\projectSettings.resources.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\projectSettings.dll
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\projectSettings.pdb

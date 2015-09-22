@@ -1,0 +1,8 @@
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\installActions\bin\Debug\installActions.exe.config
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\installActions\bin\Debug\installActions.exe
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\installActions\bin\Debug\installActions.pdb
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\installActions\obj\Debug\installActions.vbprojResolveAssemblyReference.cache
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\installActions\obj\Debug\installActions.Resources.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\installActions\obj\Debug\installActions.vbproj.GenerateResource.Cache
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\installActions\obj\Debug\installActions.exe
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\installActions\obj\Debug\installActions.pdb

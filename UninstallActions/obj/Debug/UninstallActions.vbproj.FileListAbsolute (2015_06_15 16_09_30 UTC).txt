@@ -1,0 +1,12 @@
+C:\Users\erica_000\documents\visual studio 2013\Projects\volumecontrol\UninstallActions\bin\Debug\UninstallActions.exe.config
+C:\Users\erica_000\documents\visual studio 2013\Projects\volumecontrol\UninstallActions\bin\Debug\UninstallActions.exe
+C:\Users\erica_000\documents\visual studio 2013\Projects\volumecontrol\UninstallActions\bin\Debug\UninstallActions.pdb
+C:\Users\erica_000\documents\visual studio 2013\Projects\volumecontrol\UninstallActions\bin\Debug\UninstallActions.xml
+C:\Users\erica_000\documents\visual studio 2013\Projects\volumecontrol\UninstallActions\obj\Debug\UninstallActions.Resources.resources
+C:\Users\erica_000\documents\visual studio 2013\Projects\volumecontrol\UninstallActions\obj\Debug\UninstallActions.vbproj.GenerateResource.Cache
+C:\Users\erica_000\documents\visual studio 2013\Projects\volumecontrol\UninstallActions\obj\Debug\UninstallActions.exe
+C:\Users\erica_000\documents\visual studio 2013\Projects\volumecontrol\UninstallActions\obj\Debug\UninstallActions.xml
+C:\Users\erica_000\documents\visual studio 2013\Projects\volumecontrol\UninstallActions\obj\Debug\UninstallActions.pdb
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\bin\Debug\UninstallActions.exe.config
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\obj\Debug\UninstallActions.exe
+C:\Users\erica_000\Documents\Visual Studio 2013\Projects\multimediaKeys\UninstallActions\obj\Debug\UninstallActions.pdb

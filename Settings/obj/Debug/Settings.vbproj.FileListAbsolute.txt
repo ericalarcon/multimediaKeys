@@ -1,0 +1,11 @@
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\bin\Debug\projectSettings.dll.config
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\bin\Debug\projectSettings.dll
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\bin\Debug\projectSettings.pdb
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\bin\Debug\es\projectSettings.resources.dll
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\projectSettings.errors.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\projectSettings.Resources.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\projectSettings.errors.es.resources
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\Settings.vbproj.GenerateResource.Cache
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\es\projectSettings.resources.dll
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\projectSettings.dll
+C:\Users\erica\Documents\Visual Studio 2013\Projects\multimediaKeys\Settings\obj\Debug\projectSettings.pdb
